@@ -1,7 +1,14 @@
-# Title: Custom YouTube Blocklist
-# Date: 07 November 2025
+# Title: ChristianDave/hosts
+# Description: Custom blocklist created by Christian Dave
+# Date: 07 November 2025 (UTC)
 # Number of unique domains: 5
+#
+# ===============================================================
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
 
+# Custom blocked domains below
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
