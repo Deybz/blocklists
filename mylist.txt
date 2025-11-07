@@ -1,5 +1,9 @@
-youtube.com
-www.youtube.com
-m.youtube.com
-tiktok.com
-spotify.com
+# Title: Custom YouTube Blocklist
+# Date: 07 November 2025
+# Number of unique domains: 5
+
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 googlevideo.com
