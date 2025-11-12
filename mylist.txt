@@ -17,3 +17,5 @@
 0.0.0.0 www.iskolardrt.site
 0.0.0.0 pesolink.site
 0.0.0.0 www.pesolink.site
+0.0.0.0 pornhub.com 
+0.0.0.0 www.pornhub.com
