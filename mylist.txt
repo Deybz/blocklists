@@ -1,13 +1,13 @@
-iskolardrt.site
-www.iskolardrt.site
-pesolink.site
-www.pesolink.site
-pornhub.com
-www.pornhub.com
-pornhubpremium.com
-www.pornhubpremium.com
-m.youtube.com
-youtu.be
-www.facebook.com
-facebook.com
+0.0.0.0 iskolardrt.site
+0.0.0.0 www.iskolardrt.site
+0.0.0.0 pesolink.site
+0.0.0.0 www.pesolink.site
+0.0.0.0 pornhub.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 pornhubpremium.com
+0.0.0.0 www.pornhubpremium.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 www.facebook.com
+0.0.0.0 facebook.com
 
