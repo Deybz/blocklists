@@ -8,41 +8,27 @@
 255.255.255.255 broadcasthost
 ::1 localhost
 
-0.0.0.0 iskolardrt.site
-0.0.0.0 www.iskolardrt.site
-0.0.0.0 pesolink.site
-0.0.0.0 www.pesolink.site
-0.0.0.0 pornhub.com
-0.0.0.0 www.pornhub.com
-0.0.0.0 m.pornhub.com
-0.0.0.0 pornhubpremium.com
-0.0.0.0 www.pornhubpremium.com
-0.0.0.0 phncdn.com
-0.0.0.0 www.phncdn.com
-0.0.0.0 phprcdn.com
-0.0.0.0 phncdn1.com
-0.0.0.0 phncdn2.com
-0.0.0.0 phncdn3.com
-0.0.0.0 phncdn4.com
-0.0.0.0 cdn.phncdn.com
-0.0.0.0 cdn1.phncdn.com
-0.0.0.0 cdn2.phncdn.com
-0.0.0.0 cdn3.phncdn.com
-0.0.0.0 cdn4.phncdn.com
-0.0.0.0 pornhub.com
-127.0.0.1 www.pornhub.com
-127.0.0.1 m.pornhub.com
-127.0.0.1 pornhubpremium.com
-127.0.0.1 www.pornhubpremium.com
-127.0.0.1 phncdn.com
-127.0.0.1 www.phncdn.com
-127.0.0.1 phprcdn.com
-127.0.0.1 phncdn1.com
-127.0.0.1 phncdn2.com
-127.0.0.1 phncdn3.com
-127.0.0.1 phncdn4.com
-127.0.0.1 cdn.phncdn.com
-127.0.0.1 cdn1.phncdn.com
-127.0.0.1 cdn2.phncdn.com
-127.0.0.1 cdn3.phncdn.com
-127.0.0.1 cdn4.phncdn.com
+iskolardrt.site
+www.iskolardrt.site
+pesolink.site
+www.pesolink.site
+
+pornhub.com
+www.pornhub.com
+m.pornhub.com
+pornhubpremium.com
+www.pornhubpremium.com
+
+phncdn.com
+www.phncdn.com
+phprcdn.com
+phncdn1.com
+phncdn2.com
+phncdn3.com
+phncdn4.com
+
+cdn.phncdn.com
+cdn1.phncdn.com
+cdn2.phncdn.com
+cdn3.phncdn.com
+cdn4.phncdn.com
